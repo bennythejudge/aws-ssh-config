@@ -1,6 +1,8 @@
 aws-ssh-config
 ======
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/aws-ssh-config.svg)](https://www.guardrails.io)
+
 Description
 ---
 
